@@ -1,3 +1,4 @@
+
 🧠 100 Days of Machine Learning Engineering
 
 > A rigorous, experiment-driven Machine Learning engineering journey focused on mathematical depth, production thinking, and real-world modeling challenges.
@@ -197,3 +198,4 @@ This is a disciplined transformation into an ML Engineer.
 ---
 
 **Consistency. Depth. Engineering rigor.**
+
