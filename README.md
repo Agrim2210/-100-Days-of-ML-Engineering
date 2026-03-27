@@ -25,8 +25,8 @@ This repository reflects **engineering discipline**, not tutorial replication.
 
 Modern ML roles require more than training models.
 
-They require:
-
+They require :
+ 
 * Understanding optimization behavior
 * Identifying data leakage
 * Designing robust validation strategies
